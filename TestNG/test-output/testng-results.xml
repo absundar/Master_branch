@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-12T13:05:58Z" name="Default suite" finished-at="2024-05-12T13:05:58Z" duration-ms="34">
+    <groups>
+      <group name="Include Group">
+        <method signature="TestNG1.test()[pri:0, instance:testNG.TestNG1@4f6f416f]" name="test" class="testNG.TestNG1"/>
+      </group> <!-- Include Group -->
+    </groups>
+    <test started-at="2024-05-12T13:05:58Z" name="Default test" finished-at="2024-05-12T13:05:58Z" duration-ms="34">
+      <class name="testNG.TestNG1">
+        <test-method signature="test()[pri:0, instance:testNG.TestNG1@4f6f416f]" started-at="2024-05-12T18:35:58Z" name="test" finished-at="2024-05-12T18:35:58Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test100()[pri:0, instance:testNG.TestNG1@4f6f416f]" started-at="2024-05-12T18:35:58Z" name="test100" finished-at="2024-05-12T18:35:58Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test100 -->
+      </class> <!-- testNG.TestNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
