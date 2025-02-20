@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T04:55:47Z" name="Suite" finished-at="2024-09-18T04:55:47Z" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T04:55:47Z" name="Test" finished-at="2024-09-18T04:55:47Z" duration-ms="36">
+      <class name="ParametersinTestng.Sum">
+        <test-method signature="add(int, int)[pri:0, instance:ParametersinTestng.Sum@45dd4eda]" started-at="2024-09-18T10:25:47Z" name="add" finished-at="2024-09-18T10:25:47Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- ParametersinTestng.Sum -->
+      <class name="ParametersinTestng.Multiply">
+        <test-method signature="mul(int, int)[pri:0, instance:ParametersinTestng.Multiply@19d37183]" started-at="2024-09-18T10:25:47Z" name="mul" finished-at="2024-09-18T10:25:47Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+      </class> <!-- ParametersinTestng.Multiply -->
+      <class name="ParametersinTestng.Subtract">
+        <test-method signature="sub(int, int)[pri:0, instance:ParametersinTestng.Subtract@71c8becc]" started-at="2024-09-18T10:25:47Z" name="sub" finished-at="2024-09-18T10:25:47Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- ParametersinTestng.Subtract -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
