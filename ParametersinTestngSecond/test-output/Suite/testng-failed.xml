@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Vegetables(failed)">
+    <parameter name="cauliflower" value="cauliflower"/>
+    <parameter name="carrot" value="carrot"/>
+    <classes>
+      <class name="ParametersinTestngSecond.Vegetables">
+        <methods>
+          <include name="cauliflower"/>
+          <include name="carrot"/>
+        </methods>
+      </class> <!-- ParametersinTestngSecond.Vegetables -->
+    </classes>
+  </test> <!-- Vegetables(failed) -->
+</suite> <!-- Failed suite [Suite] -->
