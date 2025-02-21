@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+  <groupId>com.parentdirectory</groupId>
+ <artifactId>my-project</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Parent Project</name>
+
+    <modules>
+        <module>CucumberJava</module>
+        <module>CustomReportTestng</module>
+        <module>Database</module>
+        <module>DatabaseTesting</module>
+        <module>DateDrivenTesting</module>
+        <module>ImportantPrograms</module>
+        <module>JavaProgramsPractice</module>
+        <module>ListenersInTestng</module>
+        <module>ListenersInTestngSecond</module>
+        <module>MavenLearning</module>
+        <module>MavenProjectTestng</module>
+        <module>MavenProjectTestngPractice</module>
+        <module>ParametersinTestng</module>
+        <module>ParametersinTestngSecond</module>
+        <module>PraticePrograms</module>
+        <module>ProgramsPractice</module>
+        <module>SeleniumCucumber</module>
+        <module>SeleniumWebDriverLearning</module>
+        <module>test</module>
+        <module>TestJava</module>
+        <module>TestMaven</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                </plugins>
+        </pluginManagement>
+    </build>
+</project>
