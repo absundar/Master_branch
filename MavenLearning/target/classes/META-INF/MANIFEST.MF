@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Built-By: abhin
+Build-Jdk: 22.0.1
+Class-Path: lib/extentreports-4.1.7.jar lib/freemarker-2.3.29.jar lib/ht
+ tpclient-4.5.2.jar lib/httpcore-4.4.4.jar lib/commons-logging-1.2.jar l
+ ib/commons-codec-1.9.jar lib/httpmime-4.5.2.jar lib/gson-2.8.6.jar lib/
+ mongodb-driver-3.12.0.jar lib/mongodb-driver-core-3.12.0.jar lib/bson-3
+ .12.0.jar lib/selenium-java-4.20.0.jar lib/selenium-api-4.20.0.jar lib/
+ selenium-chrome-driver-4.20.0.jar lib/auto-service-annotations-1.1.1.ja
+ r lib/selenium-chromium-driver-4.20.0.jar lib/selenium-json-4.20.0.jar 
+ lib/selenium-manager-4.20.0.jar lib/selenium-devtools-v122-4.20.0.jar l
+ ib/selenium-devtools-v123-4.20.0.jar lib/selenium-devtools-v124-4.20.0.
+ jar lib/selenium-devtools-v85-4.20.0.jar lib/selenium-edge-driver-4.20.
+ 0.jar lib/selenium-firefox-driver-4.20.0.jar lib/selenium-http-4.20.0.j
+ ar lib/failsafe-3.3.2.jar lib/selenium-ie-driver-4.20.0.jar lib/seleniu
+ m-remote-driver-4.20.0.jar lib/guava-33.1.0-jre.jar lib/failureaccess-1
+ .0.2.jar lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava
+ .jar lib/jsr305-3.0.2.jar lib/checker-qual-3.42.0.jar lib/error_prone_a
+ nnotations-2.26.1.jar lib/j2objc-annotations-3.0.0.jar lib/opentelemetr
+ y-semconv-1.25.0-alpha.jar lib/opentelemetry-api-1.37.0.jar lib/opentel
+ emetry-context-1.37.0.jar lib/opentelemetry-exporter-logging-1.37.0.jar
+  lib/opentelemetry-sdk-common-1.37.0.jar lib/opentelemetry-sdk-extensio
+ n-autoconfigure-spi-1.37.0.jar lib/opentelemetry-sdk-extension-autoconf
+ igure-1.37.0.jar lib/opentelemetry-api-incubator-1.37.0-alpha.jar lib/o
+ pentelemetry-sdk-trace-1.37.0.jar lib/opentelemetry-sdk-1.37.0.jar lib/
+ opentelemetry-sdk-metrics-1.37.0.jar lib/opentelemetry-sdk-logs-1.37.0.
+ jar lib/byte-buddy-1.14.14.jar lib/selenium-os-4.20.0.jar lib/commons-e
+ xec-1.4.0.jar lib/selenium-safari-driver-4.20.0.jar lib/selenium-suppor
+ t-4.20.0.jar
+Main-Class: selenium.OpenGoogle
+Created-By: Maven Integration for Eclipse
+

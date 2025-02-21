@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Listener(failed)">
+    <classes>
+      <class name="testNG.TestNG7">
+        <methods>
+          <include name="testOfFail"/>
+        </methods>
+      </class> <!-- testNG.TestNG7 -->
+    </classes>
+  </test> <!-- Listener(failed) -->
+</suite> <!-- Failed suite [Suite] -->

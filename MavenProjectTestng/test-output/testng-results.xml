@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-17T10:46:13Z" name="Default suite" finished-at="2024-09-17T10:46:13Z" duration-ms="31">
+    <groups>
+      <group name="Software Company">
+        <method signature="Groups.Cognizant()[pri:0, instance:MavenProjectTestng.MavenProjectTestng.Groups@5d0bf09b]" name="Cognizant" class="MavenProjectTestng.MavenProjectTestng.Groups"/>
+        <method signature="Groups.Infosys()[pri:0, instance:MavenProjectTestng.MavenProjectTestng.Groups@5d0bf09b]" name="Infosys" class="MavenProjectTestng.MavenProjectTestng.Groups"/>
+      </group> <!-- Software Company -->
+    </groups>
+    <test started-at="2024-09-17T10:46:13Z" name="Default test" finished-at="2024-09-17T10:46:13Z" duration-ms="31">
+      <class name="MavenProjectTestng.MavenProjectTestng.Groups">
+        <test-method signature="Cognizant()[pri:0, instance:MavenProjectTestng.MavenProjectTestng.Groups@5d0bf09b]" started-at="2024-09-17T16:16:13Z" name="Cognizant" finished-at="2024-09-17T16:16:13Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cognizant -->
+        <test-method signature="Infosys()[pri:0, instance:MavenProjectTestng.MavenProjectTestng.Groups@5d0bf09b]" started-at="2024-09-17T16:16:13Z" name="Infosys" finished-at="2024-09-17T16:16:13Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Infosys -->
+        <test-method signature="justdial()[pri:0, instance:MavenProjectTestng.MavenProjectTestng.Groups@5d0bf09b]" started-at="2024-09-17T16:16:13Z" name="justdial" depends-on-groups="Software Company" finished-at="2024-09-17T16:16:13Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justdial -->
+      </class> <!-- MavenProjectTestng.MavenProjectTestng.Groups -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

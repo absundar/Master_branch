@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="ParametersinTestng.ParametersinTestng.Sum">
+        <methods>
+          <include name="add"/>
+        </methods>
+      </class> <!-- ParametersinTestng.ParametersinTestng.Sum -->
+      <class name="ParametersinTestng.ParametersinTestng.Subtract">
+        <methods>
+          <include name="add"/>
+        </methods>
+      </class> <!-- ParametersinTestng.ParametersinTestng.Subtract -->
+      <class name="ParametersinTestng.ParametersinTestng.Multiply">
+        <methods>
+          <include name="add"/>
+        </methods>
+      </class> <!-- ParametersinTestng.ParametersinTestng.Multiply -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

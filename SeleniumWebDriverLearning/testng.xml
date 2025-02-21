@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="seleniumDriverLearning.Irctc"/>
+      <class name="seleniumDriverLearning.InternetHookupPartTwo"/>
+      <class name="seleniumDriverLearning.InternetHookup"/>
+      <class name="seleniumDriverLearning.SauceDemo"/>
+      <class name="seleniumDriverLearning.Flipkart"/>
+      <class name="seleniumDriverLearning.Amazon"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
