@@ -1,21 +1,16 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.personal.abhinaya</groupId> <artifactId>parent-project</artifactId>
+        <groupId>com.personal.abhinaya</groupId>
+        <artifactId>parent-project</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>TestMaven</artifactId> <name>TestMaven Module</name>
-    <dependencies>
-        </dependencies>
-=======
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>MavenTest</groupId>
-  <artifactId>TestMaven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
->>>>>>> c2672e1d68c9241d68216b81312db3687bd06765
+    <artifactId>TestMaven</artifactId>
+    <name>TestMaven Module</name>
+    <groupId>MavenTest</groupId>
+    <artifactId>TestMaven</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
 </project>

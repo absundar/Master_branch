@@ -1,43 +1,29 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.personal.abhinaya</groupId> <artifactId>parent-project</artifactId>
+        <groupId>com.personal.abhinaya</groupId>
+        <artifactId>parent-project</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>DatabaseTesting</artifactId> <name>DatabaseTesting Module</name>
+    <artifactId>DatabaseTesting</artifactId>
+    <name>DatabaseTesting Module</name>
+    <groupId>DatabaseTesting</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>DatabaseTesting</name>
+    <url>http://maven.apache.org</url>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
     <dependencies>
-        </dependencies>
-=======
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>DatabaseTesting</groupId>
-  <artifactId>DatabaseTesting</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
-	<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
-<dependency>
-    <groupId>com.mysql</groupId>
-    <artifactId>mysql-connector-j</artifactId>
-    <version>9.1.0</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.10.2</version>
-    <scope>test</scope>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
-<dependency>
-    <groupId>org.apache.commons</groupId>
-    <artifactId>commons-lang3</artifactId>
-    <version>3.17.0</version>
-</dependency>
-
-  </dependencies>
->>>>>>> c2672e1d68c9241d68216b81312db3687bd06765
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>
