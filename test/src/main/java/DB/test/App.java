@@ -1,4 +1,4 @@
-package DB.test;
+package DB;
 
 /**
  * Hello world!

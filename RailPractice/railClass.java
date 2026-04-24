@@ -1,3 +1,5 @@
+package RailPractice;
+
 import org.openqa.selenium.WebDriver;
 
 public class railClass {

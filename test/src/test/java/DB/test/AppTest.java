@@ -1,4 +1,4 @@
-package DB.test;
+package DB;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
